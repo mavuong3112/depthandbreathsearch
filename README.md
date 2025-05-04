@@ -1,4 +1,5 @@
 # 🧠 Maze Solver with DFS & BFS
+[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/) 
 🎓 Project Introduction to artificial intelligence
 🏫 University of Economics HCMC  
 
